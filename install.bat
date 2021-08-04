@@ -1,1 +1,0 @@
-move dist\file_organizer.exe D:\\bin
